@@ -26,8 +26,6 @@ pip install -r requirements.txt
 python LGPD.py
 ```
 
-Obs.: o `psycopg2-binary` dessa versão não instala no Python 3.14. Use o Python 3.12 (`py -3.12 LGPD.py`).
-
 ## Arquivos
 
 - `LGPD.py`: o programa.
