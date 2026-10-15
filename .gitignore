@@ -1,0 +1,3 @@
+*.csv
+tempos.log
+__pycache__/
