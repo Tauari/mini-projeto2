@@ -25,9 +25,3 @@ O programa se conecta a um banco de dados com 20 mil usuários fictícios e esco
 pip install -r requirements.txt
 python LGPD.py
 ```
-
-## Arquivos
-
-- `LGPD.py`: o programa.
-- `requirements.txt`: bibliotecas usadas.
-- Os arquivos `.csv` e o `tempos.log` são criados quando o programa roda.
